@@ -10,8 +10,4 @@ Next.js is my go-to for building user-friendly websites.
 Currently, I'm learning DevOps and back-end development, mastering Express.js and Prisma for server-side apps and databases.
 TypeScript is my trusty tool for writing strong, reliable code.
 
-<br />
-
-### Tech Skills 👷
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzaky9&layout=compact)
