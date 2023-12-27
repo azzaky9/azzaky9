@@ -1,16 +1,17 @@
-### Hi there I'm Zaky but if you If you are from outside Indonesia you can spell my name as Jack 👋
+### Hi there I'm Zaky you can also call me Jack 👋
 
-<!--
-**azzaky9/azzaky9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-Here are some ideas to get you started:
+I'm a college student majoring in Information Technology, diving into software development.
+I work with JavaScript and TypeScript for both front-end and back-end tasks.
+Next.js is my go-to for building user-friendly websites.
+Currently, I'm learning DevOps and back-end development, mastering Express.js and Prisma for server-side apps and databases.
+TypeScript is my trusty tool for writing strong, reliable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Tech Skills 👷
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzaky9&layout=compact)
