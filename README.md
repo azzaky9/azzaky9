@@ -7,7 +7,8 @@
 
 👯‍♀️ I'm looking to collaborate on open source project if you want me to contribute for your open source project I would be very happy if I could make a contribution to help many people. 
 
-📫 How to reach me?, I am active on several social media such as Instagram, LinkedIn or also this platform GitHub
+📫 How to reach me?, I am active on several social media such as Instagram [@azzakyanh](https://www.instagram.com/azzakyanh/)
+, LinkedIn [Zaky Irwansyah Andhika](https://www.linkedin.com/in/zakyirwansyahandhika/) or also this platform GitHub.
 
 ⚡️ Fun fact?, The profile I set right (Higuruma Draining) now is correctly represents my condition HAHA. 
 
@@ -15,10 +16,5 @@
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,expressjs,nextjs,nodejs,nestjs,git,bash,mysql,mui,tailwind,prisma&theme=dark)](https://skillicons.dev)
 
-## 🔗 Social Media
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
