@@ -14,7 +14,7 @@
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,expressjs,nextjs,nodejs,nestjs,git,bash,mysql,mui,tailwind,prisma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,expressjs,nextjs,nodejs,nestjs,git,bash,mysql,mui,tailwind,prisma,linux,firebase&theme=dark)](https://skillicons.dev)
 
 
 
