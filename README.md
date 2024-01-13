@@ -1,48 +1,24 @@
-<h2 align="left">Hi 👋! My name Zaky and I'm a Software Developer.</h2>
-<div align="left">
-  <a href="https://www.instagram.com/azzakyanh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
-  <a href="https://discord.com/users/1000673387343003648" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/zakyirwansyahandhika/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <a href="https://t.me/jack7261" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo" />
-</a>
 
-</div>
+## Hello im Zaky (Asian), Jack (Global)
 
-###
+👩‍💻 I'm currently working on a web-based software project to automate business logic for various industries.
 
-<p>I'm a college student majoring in Information Technology, diving into software development. I work with JavaScript and TypeScript for both front-end and back-end tasks. Next.js is my go-to for building user-friendly websites. Currently, I'm learning DevOps and back-end development, mastering Express.js and Prisma for server-side apps and databases. TypeScript is my trusty tool for writing strong, reliable code.</p>
+🧠 I'm currently learning Devops and Backend development, i've started this industry with frontend side so now i just want to explore more about another side of this industry
 
-###
+👯‍♀️ I'm looking to collaborate on open source project if you want me to contribute for your open source project I would be very happy if I could make a contribution to help many people. 
 
-### Statistics 📈
+📫 How to reach me?, I am active on several social media such as Instagram, LinkedIn or also this platform GitHub
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=azzaky9&locale=en&mode=weekly&theme=swift&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azzaky9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=swift&hide_border=false" height="150" alt="languages graph"  />
-</div>
+⚡️ Fun fact?, The profile I set right (Higuruma Draining) now is correctly represents my condition HAHA. 
 
-###
 
-<img src="https://raw.githubusercontent.com/azzaky9/azzaky9/output/snake.svg" alt="Snake animation" />
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,expressjs,nextjs,nodejs,nestjs,git,bash,mysql,mui,tailwind,prisma&theme=dark)](https://skillicons.dev)
 
-<div align="left">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react">
-</div>
+## 🔗 Social Media
 
-###
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
