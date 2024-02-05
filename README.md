@@ -1,5 +1,7 @@
 
-## Hello im Zaky (Asian), Jack (Global)
+## Hello im Zaky from Indonesia 🇮🇩, you also known it. 
+
+> hard to spell my name 🤔? you can also call me Jack
 
 👩‍💻 I'm currently working on a web-based software project to automate business logic for various industries.
 
@@ -14,7 +16,7 @@
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,expressjs,nextjs,nodejs,nestjs,git,bash,mysql,mui,tailwind,prisma,linux,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,expressjs,nextjs,nodejs,nestjs,git,bash,mysql,mui,tailwind,prisma,linux,github,firebase&theme=dark)](https://skillicons.dev)
 
 
 
