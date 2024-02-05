@@ -5,7 +5,7 @@
 
 👩‍💻 I'm currently working on a web-based software project to automate business logic for various industries.
 
-🧠 I'm currently learning Devops and Backend development, i've started this industry with frontend side so now i just want to explore more about another side of this industry
+🧠 I'm currently learning Devops and Backend development and little bit IOT i think, i've started this industry with frontend side so now i just want to explore more about another side of this industry
 
 👯‍♀️ I'm looking to collaborate on open source project if you want me to contribute for your open source project I would be very happy if I could make a contribution to help many people. 
 
