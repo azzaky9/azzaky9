@@ -16,7 +16,7 @@
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,expressjs,pnpm,npm,yarn,docker,nextjs,nodejs,nestjs,git,bash,mysql,mongodb,mui,tailwind,prisma,linux,github,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,expressjs,pnpm,npm,yarn,docker,nextjs,nodejs,nestjs,git,bash,mysql,mongodb,mui,tailwind,prisma,linux,github,firebase,githubactions&theme=dark)](https://skillicons.dev)
 
 
 
