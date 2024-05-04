@@ -12,7 +12,7 @@
 📫 How to reach me?, I am active on several social media such as Instagram [@azzakyanh](https://www.instagram.com/azzakyanh/)
 , LinkedIn [Zaky Irwansyah Andhika](https://www.linkedin.com/in/zakyirwansyahandhika/) or also this platform GitHub.
 
-⚡️ Fun fact?, The profile I set right (Higuruma Draining) now is correctly represents my condition HAHA. 
+⚡️ Fun fact?, I hate JavaScript a lot. 
 
 
 ## 🛠 Skills
