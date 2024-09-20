@@ -5,7 +5,7 @@
 
 👨‍💻 I'm currently working on a software project to automate business logic for various industries.
 
-🧠 I'm currently learning Devops and Backend development with Java, i've started this industry from client side (Front-End) so now i just want to explore more about another side of this tech industry
+🧠 I'm currently active and learning Devops and Backend Technologies such as Java, Docker (Swarm) and Kubernetes, kinda boring doing front-end stuff like a building components and http request.   
 
 🪼 I'm looking to collaborate on open source project if you want me to contribute for your open source project I would be very happy if I could make a contribution to help many people. 
 
