@@ -1,8 +1,3 @@
-
-## Hello im Zaky
-
-> hard to spell my name 🤔? you can also call me Jack
-
 👨‍💻 I'm currently working on a software project to automate business logic for various industries.
 
 🧠 I'm currently active learning Devops and Backend Technologies such as Java, Docker (Swarm), Kubernetes, little bit doing low-level programming, kinda boring doing front-end stuff like a building components and http request.   
