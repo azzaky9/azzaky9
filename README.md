@@ -4,8 +4,7 @@
 
 🪼 I'm looking to collaborate on open source project if you want me to contribute for your open source project I would be very happy if I could make a contribution to help many people. 
 
-📫 How to reach me?, I am active on several social media such as Instagram [@azzakyanh](https://www.instagram.com/azzakyanh/)
-, LinkedIn [Zaky Irwansyah Andhika](https://www.linkedin.com/in/zakyirwansyahandhika/) or also this platform GitHub.
+📫 How to reach me?, I am active on several social media such as LinkedIn [Zaky Irwansyah Andhika](https://www.linkedin.com/in/zakyirwansyahandhika/) or also this platform GitHub.
 
 ⚡️ Fun fact?, I hate JavaScript 🚮. 
 
