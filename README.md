@@ -4,11 +4,9 @@
 
 🪼 I'm looking to collaborate on open source project if you want me to contribute for your open source project I would be very happy if I could make a contribution to help many people. 
 
-📫 How to reach me?, I am active on several social media such as LinkedIn [Zaky Irwansyah Andhika](https://www.linkedin.com/in/zakyirwansyahandhika/) or also this platform GitHub.
-
 ⚡️ Fun fact?, I hate JavaScript 🚮. 
 
-## 🛠 Skills
+## 🛠 Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,expressjs,nestjs,pnpm,npm,bun,yarn,docker,remix,nextjs,nodejs,git,bash,postgresql,mysql,mongodb,mui,tailwind,prisma,linux,github,firebase,githubactions,java,vim,ubuntu,laravel&theme=dark)](https://skillicons.dev)
 
 
